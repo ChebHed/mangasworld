@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/resources/views/accueil.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/app/Http/Controllers/GenreController.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/app/Http/Middleware/Authenticate.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/app/Http/Middleware/Autorisation.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/app/Models/Manga.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/resources/views/formManga.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/resources/views/error.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/routes/console.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/.env</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/app/Http/Controllers/MangaController.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/database/migrations/2014_10_12_100000_create_password_resets_table.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/app/Http/Kernel.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/app/User.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/database/migrations/2019_08_19_000000_create_failed_jobs_table.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/app/Models/Dessinateur.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/app/Models/Scenariste.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/resources/views/layouts/master.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/resources/views/listeMangas.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/app/Models/Genre.php</file>
+            <file>file:/C:/xampp/htdocs/Chebeur/mangasworld/resources/views/formGenre.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
